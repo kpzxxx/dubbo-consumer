@@ -8,7 +8,7 @@
 
     <dubbo:reference id="firstDubboService"
                      interface="com.kpztech.practice.dubbo.service.FirstDubboService"
-                     protocol="dubbo" check="false" timeout="800" retries="3"/>
+                     protocol="dubbo" check="false" timeout="1000" retries="1"/>
 
 
 </beans>

@@ -1,6 +1,5 @@
 package com.kpztech.duboo.consumer.dubbo.proxy;
 
-import com.alibaba.dubbo.config.annotation.Reference;
 import com.kpztech.practice.dubbo.service.FirstDubboService;
 
 import org.springframework.beans.factory.annotation.Autowired;
