@@ -1,7 +1,7 @@
 package com.kpztech.duboo.consumer.dubbo.proxy;
 
 import com.alibaba.dubbo.rpc.RpcContext;
-import com.kpztech.practice.dubbo.service.FirstDubboService;
+import com.kpztech.practice.boot.dubbo.service.FirstDubboService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
